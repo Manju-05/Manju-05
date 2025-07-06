@@ -2,7 +2,7 @@
   <img src="https://github.com/Manju-05/Manju-05/assets/your-github-id/custom-banner.gif" alt="Manju Pathapadu Banner" width="100%"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Manju Pathapadu</h1>
+<h1 align="center">Glad to have you here👋, I'm Manjunath</h1>
 <h3 align="center">CSE (AI & ML) Student | Web & ML Enthusiast | Robotics Explorer</h3>
 
 <p align="center">
