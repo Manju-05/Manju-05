@@ -62,20 +62,6 @@
 | **Portfolio Website** | Built and deployed a sleek personal portfolio using Bolt AI and Netlify for smooth performance. |
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manju-05&show_icons=true&theme=radical" alt="Manju's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manju-05&theme=radical" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manju-05&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
 ### 🤝 Connect with Me
 
 <p align="center">
@@ -93,8 +79,8 @@
 ---
 ### 📬 Let’s Collaborate
 
-💡 Got an idea? Working on something cool?  
-I'm always open to collaborations, especially in:
+- Got an idea? Working on something cool?
+-  I'm always open to collaborations, especially in:
 
 - 🤖 **Robotics & Automation**  
 - 🌐 **Web App Development**  
