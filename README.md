@@ -16,9 +16,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/CodeChef-100%E2%9A%A1Days-blueviolet?style=for-the-badge&logo=codechef" />
   <img src="https://img.shields.io/badge/CodeChef-Diamond%20Badge-8A2BE2?style=for-the-badge&logo=codechef" />
-  <img src="https://img.shields.io/badge/Arduino%20Builder-Project%20Maker-brightgreen?style=for-the-badge&logo=arduino" />
+<!--   <img src="https://img.shields.io/badge/Arduino%20Builder-Project%20Maker-brightgreen?style=for-the-badge&logo=arduino" /> -->
   <img src="https://img.shields.io/badge/AI%20Club-Member-yellow?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/Robotics%20Workshop-Completed-blue?style=for-the-badge&logo=raspberrypi" />
+<!--   <img src="https://img.shields.io/badge/Robotics%20Workshop-Completed-blue?style=for-the-badge&logo=raspberrypi" /> -->
 </p>
 
 ---
@@ -26,12 +26,12 @@
 ### 🧑‍💼 About Me
 
 - 🎓 Pursuing **B.Tech in Computer Science (AI & ML)** from **RGM Group of Institutions**
-- 🧪 Former **Java Developer Trainee** at MNP Software Solutions Pvt. Ltd.
-- 🔧 Worked hands-on with **Arduino**, sensors, and built automation projects
+- 🧪 **Java Developer Trainee** at MNP Software Solutions Pvt. Ltd.
+- 🔧 Hands-on with **Arduino**, sensors, and built automation projects
 - 🏆 Completed **100-day CodeChef streak** with **Diamond badge** (200+ problems solved)
 - 🚀 Core Member of **AI Club** in my college to foster real AI innovations
 - 🌐 Built multiple web projects including **Netflix Clone**, **NGO Website**, and more
-- 🖥️ Previously completed diploma in Computer Science at AVR & SVR Engineering College
+- 🖥️ completed diploma in Computer Science at AVR & SVR Engineering College
 
 ---
 
